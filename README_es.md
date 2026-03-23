@@ -1,7 +1,7 @@
 # NihongoPy
 
 <p align="center">
-  <img src="img/nihongopy_logo.png" alt="Logo de NihongoPy" width="220">
+  <img src="nihongopy_logo.png" alt="Logo de NihongoPy" width="220">
 </p>
 
 NihongoPy es una aplicación de terminal para practicar japonés de forma sencilla, rápida y sin castigos absurdos.

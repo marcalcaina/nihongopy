@@ -1,8 +1,9 @@
 # NihongoPy
 
 <p align="center">
-  <img src="img/nihongopy_logo.png" alt="NihongoPy logo" width="220">
+  <img src="nihongopy_logo.png" alt="NihongoPy logo" width="220">
 </p>
+<small><i>There is also a Spanish version of this README: [README_es.md](README_es.md).</i></small>
 
 NihongoPy is a small terminal app for practicing Japanese in a friendly way, without the classic "you made one mistake, now go sit in the corner" energy.
 
