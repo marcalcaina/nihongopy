@@ -43,8 +43,8 @@ NihongoPy está pensado para practicar, equivocarte, entender el error y continu
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/NihongoPy.git
-cd NihongoPy
+git clone https://github.com/marcalcaina/nihongopy.git
+cd nihongopy
 ```
 
 2. Crea un entorno virtual:
