@@ -33,8 +33,8 @@ This project is for that.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NihongoPy.git
-cd NihongoPy
+git clone https://github.com/marcalcaina/nihongopy.git
+cd nihongopy
 ```
 
 2. Create and activate a virtual environment:
