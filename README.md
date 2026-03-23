@@ -3,7 +3,7 @@
 <p align="center">
   <img src="nihongopy_logo.png" alt="NihongoPy logo" width="220">
 </p>
-<small><i>There is also a Spanish version of this README: [README_es.md](README_es.md).</i></small>
+There is also a Spanish version of this README: [README_es.md](README_es.md)
 
 NihongoPy is a small terminal app for practicing Japanese in a friendly way, without the classic "you made one mistake, now go sit in the corner" energy.
 
