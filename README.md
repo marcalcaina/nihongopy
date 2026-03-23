@@ -4,11 +4,11 @@
   <img src="nihongopy_logo.png" alt="NihongoPy logo" width="220">
 </p>
 
+[Versión en Español](./README_es.md)
+
 NihongoPy is a small terminal app for practicing Japanese in a friendly way, without the classic "you made one mistake, now go sit in the corner" energy.
 
 It is basically a free alternative to those language apps that love to interrupt your flow the second you fail something. Here, if you mess up, you still get feedback, a quick explanation, and then you can jump right back in and keep learning like a normal human being.
-
-[Ir al README en español](./README_es.md)
 
 ## What it does
 
